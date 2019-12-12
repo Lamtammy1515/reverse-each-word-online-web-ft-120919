@@ -3,7 +3,7 @@
 
 def reverse_each_word(rev)
  
-  original_array = rev.split(" ")
+  original_array = rev.collect(" ")
     return_array = []
   original_array.each do |rev|
   return_array << rev.reverse

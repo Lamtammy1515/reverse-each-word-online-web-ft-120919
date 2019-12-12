@@ -11,3 +11,5 @@ def reverse_each_word(rev)
 end
 
 def reverse_each_word(string)
+   array = rev.split(" ")
+   

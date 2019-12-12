@@ -18,6 +18,4 @@ def reverse_each_word(rever)
     our_array << string.reverse
 end
     our_array.join(" ")
-    
-    
 end

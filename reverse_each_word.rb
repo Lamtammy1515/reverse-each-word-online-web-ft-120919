@@ -14,3 +14,4 @@ def reverse_each_word(rever)
    array = rever.split(" ")
    our_array = []
    array.collect do|rever|
+   
